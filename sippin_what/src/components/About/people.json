@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Carol",
+        "image": "../images/carol.jpg",
+        "bio": "Carol is a driven professional who has spent most of her career in the non-profit world. She has a demonstrated history of building strong relationships with staff, clients and donors, managing projects and developing social media and marketing strategies. When not working she can be found enjoying the outdoors, coding, and wine (of course)."
+    },
+    {
+        "name": "David",
+        "image": "../images/david.jpg",
+        "bio": "David is an experienced Technical Account Manager and Technical Support Engineer in the television broadcast industry. Currently studying HTML5, Javascript, JQuery, and Node, at the University of Denver, David is gaining knowledge of fullstack web development, including interacting with APIs, JSON messaging and backend database querying.What? It's only been two months?"
+    },
+    {
+        "name": "Pritha",
+        "image": "../images/pritha.jpg",
+        "bio": "Pritha is an experienced Software Test Engineer with a demonstrated history of working in the finance and health wellness and fitness industry. She is a quality assurance professional and a graduate from Columbia College. Besides work, she is learning how to ski and love to travel to new places to explore different culture and try new food."
+    },
+    {
+        "name": "Nate",
+        "image": "../images/.jpg",
+        "bio": "Nathaniel has a strong background in process management and development. His past knowledge in technology and business managment has driven him to excel in his field.Nathaniel loves writing code and is motivated to develop web applications that are bug free and sophisticated.Besides his passion about writing code Nate enjoys the occasional drink.So, Sip This to support him and the rest of the team - Cheers!"
+    }
+]

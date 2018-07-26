@@ -1,0 +1,50 @@
+.SignUpComponent {
+  margin-top: -90px;
+  background-image: url("https://images.unsplash.com/photo-1478641300939-0ec5188d3802?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=6abd9d9eb30d2edda1d5bd076bba0a78&auto=format&fit=crop&w=2252&q=80");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  min-height: 105vh;
+  flex-direction: column;
+}
+
+form {
+  background-color: rgba(0, 0, 0, 0.3);
+  color: white !important;
+}
+
+input {
+  color: white !important;
+}
+
+textarea {
+  color: white !important;
+}
+
+.signUp {
+  margin-top: 150px;
+  background-color: rgba(0, 0, 0, 0.507);
+}
+
+label {
+  color: white !important;
+  /* background-color: rgba(0, 0, 0, 0.507); */
+}
+
+input:not([type]):focus:not([readonly]),
+input[type=text]:focus:not([readonly]),
+input[type=password]:focus:not([readonly]),
+input[type=email]:focus:not([readonly]),
+input[type=url]:focus:not([readonly]),
+input[type=time]:focus:not([readonly]),
+input[type=date]:focus:not([readonly]),
+input[type=datetime]:focus:not([readonly]),
+input[type=datetime-local]:focus:not([readonly]),
+input[type=tel]:focus:not([readonly]),
+input[type=number]:focus:not([readonly]),
+input[type=search]:focus:not([readonly]),
+textarea.materialize-textarea:focus:not([readonly]) {
+  border-bottom: 1px solid #951D14;
+  box-shadow: 0 0 0 0 #951D14 !important;
+}

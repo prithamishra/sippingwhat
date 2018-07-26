@@ -1,0 +1,36 @@
+{
+  "name": "sippin_what_v3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "bcrypt-nodejs": "^0.0.3",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "express-session": "^1.15.6",
+    "mysql2": "^1.5.3",
+    "npm": "^6.2.0",
+    "passport": "^0.4.0",
+    "passport-local": "^1.0.0",
+    "react-geocode": "^0.1.2",
+    "sequelize": "^4.38.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "",
+    "dev": "concurrently \"nodemon server.js\" \"cd sippin_what && yarn start\"",
+    "heroku-prebuild": "rm -rf public && mkdir public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nathanieljansen/Sippin_What_V3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nathanieljansen/Sippin_What_V3/issues"
+  },
+  "homepage": "https://github.com/nathanieljansen/Sippin_What_V3#readme"
+}

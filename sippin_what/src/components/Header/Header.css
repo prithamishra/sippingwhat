@@ -1,0 +1,11 @@
+.nav-wrapper {
+  width: 100%;
+  font-size: 3rem;
+  background-color: rgba(0, 0, 0, 0.507);
+  margin-bottom: 50px;
+}
+
+.navBar {
+  background-color: rgba(0, 0, 0, 0);
+}
+

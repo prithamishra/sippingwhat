@@ -1,0 +1,42 @@
+.HomepageComponent {
+    margin-top: -90px;
+   padding: 0;
+  background-image: url("https://images.unsplash.com/photo-1520066975094-c321ec00637d?ixlib=rb-0.3.5&s=7335e4200d57596e7e37c325ecac0fbf&auto=format&fit=crop&w=1950&q=80");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  min-height: 105vh;
+  flex-direction: column;
+}
+
+.foodInput {
+  margin-top: 250px;
+}
+
+.food {
+  background: rgba(0, 0, 0, 0.5) !important;
+  color: white;
+}
+
+.submitButton{
+margin-top: 19px;
+}
+
+.btn {
+  background-color: #951D14 !important;
+}
+
+.input-field input[type=text]:focus+label {
+  color: white;
+  font-size: 20px;
+}
+
+
+
+
+.input-field input[type=text]:focus {
+  border-bottom: 1px solid #951D14;
+  box-shadow: 0 1px 0 0 #951D14;
+}
+
